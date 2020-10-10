@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EngineerCalculation.Page.SW.PG_Resolution"
+             Title="Resolution">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="50" />
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="1" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="5" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="5" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions >
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <!--<Label 
+                Grid.Row="0" Grid.Column="1"
+                Text="分解能" 
+                FontSize="14"
+                HorizontalOptions="End"
+                VerticalOptions="Center"/>-->
+            <Picker x:Name="PickerResolution"
+                Grid.Row="0" Grid.Column="2" Grid.ColumnSpan="3"
+                Title="分解能を選択してください。" 
+                FontSize="13"
+                VerticalOptions="Center"
+                HorizontalOptions="End"
+                SelectedIndexChanged="PickerResolution_Changed" />
+            <Label 
+                Grid.Row="0" Grid.Column="5"
+                Text="bit" 
+                VerticalOptions="Center"
+                HorizontalOptions="Start" />
+
+            <Button x:Name="BtnResolutionCal1"
+                Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="6"
+                Text="計算を実行" 
+                IsEnabled="False"
+                Clicked="BtnResolutionCal1_Clicked" />
+
+            <Grid Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="8">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="5" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="5" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions >
+                    <RowDefinition Height="20" />
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+
+                <Label 
+                Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2"
+                Text="最大数値" 
+                HorizontalOptions="End"
+                VerticalOptions="Center"/>
+                <Label x:Name="LblMax"
+                Grid.Row="1" Grid.Column="3" Grid.ColumnSpan="3"
+                Text="*****" 
+                HorizontalOptions="Center"
+                VerticalOptions="Center"/>
+                <Label x:Name="LblMax_Hex"
+                Grid.Row="2" Grid.Column="3" Grid.ColumnSpan="3"
+                Text="*****" 
+                HorizontalOptions="Center"
+                VerticalOptions="Center"/>
+            </Grid>
+
+
+            
+        </Grid>
+    </Grid>
+    
+</ContentPage>

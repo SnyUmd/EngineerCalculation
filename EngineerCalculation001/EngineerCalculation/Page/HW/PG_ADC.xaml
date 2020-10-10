@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EngineerCalculation.Page.HW.PG_ADC"
+             Title="AD converter">
+    <Grid RowSpacing="0" ColumnSpacing="0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0" BackgroundColor="Khaki">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="5" />
+                <ColumnDefinition Width="35*" />
+                <ColumnDefinition Width="50*" />
+                <ColumnDefinition Width="15*" />
+                <ColumnDefinition Width="5" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions >
+                <RowDefinition Height="5" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="5" />
+            </Grid.RowDefinitions>
+            
+            <Label 
+                Grid.Row="1" Grid.Column="1"
+                Text="分解能" 
+                FontSize="14"
+                HorizontalOptions="End"
+                VerticalOptions="Center"/>
+            <Entry 
+                Grid.Row="1" Grid.Column="2"
+                Placeholder=""
+                HorizontalOptions="EndAndExpand"
+                VerticalOptions="Center"
+                WidthRequest="160"/>
+            <Label 
+                Grid.Row="1" Grid.Column="3"
+                Text="bit" 
+                FontSize="14"
+                HorizontalOptions="Start"
+                VerticalOptions="Center"/>
+
+
+            <Label 
+                Grid.Row="2" Grid.Column="1"
+                Text="リファレンス電圧" 
+                FontSize="11"
+                HorizontalOptions="End"
+                VerticalOptions="Center"/>
+            <Entry 
+                Grid.Row="2" Grid.Column="2"
+                Placeholder=""
+                HorizontalOptions="EndAndExpand"
+                VerticalOptions="Center"
+                WidthRequest="160"/>
+            <Label 
+                Grid.Row="2" Grid.Column="3"
+                Text="bit" 
+                FontSize="14"
+                HorizontalOptions="Start"
+                VerticalOptions="Center"/>
+
+
+            <Label 
+                Grid.Row="3" Grid.Column="1"
+                Text="測定電圧値" 
+                FontSize="11"
+                HorizontalOptions="End"
+                VerticalOptions="Center"/>
+            <Entry 
+                Grid.Row="3" Grid.Column="2"
+                Placeholder=""
+                HorizontalOptions="EndAndExpand"
+                VerticalOptions="Center"
+                WidthRequest="160"/>
+            <Label 
+                Grid.Row="3" Grid.Column="3"
+                Text="bit" 
+                FontSize="14"
+                HorizontalOptions="Start"
+                VerticalOptions="Center"/>
+        </Grid>
+
+        <Grid Grid.Row="1" BackgroundColor="Aquamarine">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+        </Grid>
+
+        <Grid Grid.Row="2" BackgroundColor="Azure">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+        </Grid>
+    </Grid>
+    
+</ContentPage>

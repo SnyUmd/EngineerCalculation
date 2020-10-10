@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EOdsIZnK9RAxm7+5XPRhBg+wgsHzdkEAo6vs3atbY7vBwt/CWh4opDj8rh3kYZTo/hBevaaeTuc6B+hGvBrzAw==",
+  "success": true,
+  "projectFilePath": "D:\\_git\\VS2019_Android\\EngineerCalculation\\EngineerCalculation\\EngineerCalculation.iOS\\EngineerCalculation.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EngineerCalculation.Page.PG_SoftWareCal"
+             Title="Soft ware Calculation">
+    <Grid ColumnSpacing="0" RowSpacing="0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="5" />
+            <ColumnDefinition Width="5*" />
+            <ColumnDefinition Width="2" />
+            <ColumnDefinition Width="5*" />
+            <ColumnDefinition Width="2" />
+            <ColumnDefinition Width="5*" />
+            <ColumnDefinition Width="5" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5" />
+            <RowDefinition Height="5*" />
+            <RowDefinition Height="2" />
+            <RowDefinition Height="5*" />
+            <RowDefinition Height="2" />
+            <RowDefinition Height="5*" />
+            <RowDefinition Height="2" />
+            <RowDefinition Height="5*" />
+            <RowDefinition Height="2" />
+            <RowDefinition Height="5*" />
+            <RowDefinition Height="2" />
+            <RowDefinition Height="5*" />
+            <RowDefinition Height="2" />
+            <RowDefinition Height="5*" />
+            <RowDefinition Height="2" />
+            <RowDefinition Height="5*" />
+            <RowDefinition Height="2" />
+            <RowDefinition Height="5*" />
+            <RowDefinition Height="5" />
+        </Grid.RowDefinitions>
+
+        <Button x:Name="BtnResolution" 
+                Grid.Row="1" Grid.Column="1"
+                Text="Resolution"
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="FillAndExpand"    
+                Clicked="BtnResolution_Click" />
+        <Button 
+                Grid.Row="1" Grid.Column="3"
+                Text=""
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="FillAndExpand"    />
+        <Button 
+                Grid.Row="1" Grid.Column="5"
+                Text=""
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="FillAndExpand"    />
+        
+        
+        <Button 
+                Grid.Row="3" Grid.Column="1"
+                Text=""
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="FillAndExpand"    />
+        <Button 
+                Grid.Row="3" Grid.Column="3"
+                Text=""
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="FillAndExpand"    />
+        <Button 
+                Grid.Row="3" Grid.Column="5"
+                Text=""
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="FillAndExpand"    />
+
+
+        <Button 
+                Grid.Row="5" Grid.Column="1"
+                Text=""
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="FillAndExpand"    />
+        <Button 
+                Grid.Row="5" Grid.Column="3"
+                Text=""
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="FillAndExpand"    />
+        <Button 
+                Grid.Row="5" Grid.Column="5"
+                Text=""
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="FillAndExpand"    />
+
+
+        <Button 
+                Grid.Row="7" Grid.Column="1"
+                Text=""
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="FillAndExpand"    />
+        <Button 
+                Grid.Row="7" Grid.Column="3"
+                Text=""
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="FillAndExpand"    />
+        <Button 
+                Grid.Row="7" Grid.Column="5"
+                Text=""
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="FillAndExpand"    />
+
+
+
+        <Button 
+                Grid.Row="9" Grid.Column="1"
+                Text=""
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="FillAndExpand"    />
+        <Button 
+                Grid.Row="9" Grid.Column="3"
+                Text=""
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="FillAndExpand"    />
+        <Button 
+                Grid.Row="9" Grid.Column="5"
+                Text=""
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="FillAndExpand"    />
+
+
+
+
+
+
+        <Button x:Name="BtnTest"
+                Grid.Row="17" Grid.Column="3"
+                Text="TEST"
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="FillAndExpand"
+                Clicked="BtnTest_Click" />
+        <Label  x:Name="LblTest"
+                Grid.Row="17" Grid.Column="5"
+                Text="*****" 
+                HorizontalOptions="Center"
+                VerticalOptions="Center" />
+
+    </Grid>
+</ContentPage>
