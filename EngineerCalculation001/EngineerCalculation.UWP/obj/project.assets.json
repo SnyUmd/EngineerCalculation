@@ -207,7 +207,7 @@
           "lib/uap10.0/Microsoft.UI.Xaml.winmd": {}
         },
         "build": {
-          "buildTransitive/Microsoft.UI.Xaml.props": {}
+          "build/Microsoft.UI.Xaml.props": {}
         }
       },
       "NETStandard.Library/2.0.3": {
@@ -352,8 +352,8 @@
           "lib/uap10.0.16299/Xamarin.Forms.Xaml.dll": {}
         },
         "build": {
-          "buildTransitive/Xamarin.Forms.props": {},
-          "buildTransitive/Xamarin.Forms.targets": {}
+          "build/Xamarin.Forms.props": {},
+          "build/Xamarin.Forms.targets": {}
         }
       },
       "EngineerCalculation/1.0.0": {
@@ -578,7 +578,7 @@
           "lib/uap10.0/Microsoft.UI.Xaml.winmd": {}
         },
         "build": {
-          "buildTransitive/Microsoft.UI.Xaml.props": {}
+          "build/Microsoft.UI.Xaml.props": {}
         }
       },
       "NETStandard.Library/2.0.3": {
@@ -886,8 +886,8 @@
           "lib/uap10.0.16299/Xamarin.Forms.Xaml.dll": {}
         },
         "build": {
-          "buildTransitive/Xamarin.Forms.props": {},
-          "buildTransitive/Xamarin.Forms.targets": {}
+          "build/Xamarin.Forms.props": {},
+          "build/Xamarin.Forms.targets": {}
         }
       },
       "EngineerCalculation/1.0.0": {
@@ -1112,7 +1112,7 @@
           "lib/uap10.0/Microsoft.UI.Xaml.winmd": {}
         },
         "build": {
-          "buildTransitive/Microsoft.UI.Xaml.props": {}
+          "build/Microsoft.UI.Xaml.props": {}
         }
       },
       "NETStandard.Library/2.0.3": {
@@ -1421,8 +1421,8 @@
           "lib/uap10.0.16299/Xamarin.Forms.Xaml.dll": {}
         },
         "build": {
-          "buildTransitive/Xamarin.Forms.props": {},
-          "buildTransitive/Xamarin.Forms.targets": {}
+          "build/Xamarin.Forms.props": {},
+          "build/Xamarin.Forms.targets": {}
         }
       },
       "EngineerCalculation/1.0.0": {
@@ -1646,7 +1646,7 @@
           "lib/uap10.0/Microsoft.UI.Xaml.winmd": {}
         },
         "build": {
-          "buildTransitive/Microsoft.UI.Xaml.props": {}
+          "build/Microsoft.UI.Xaml.props": {}
         }
       },
       "NETStandard.Library/2.0.3": {
@@ -1777,8 +1777,8 @@
           "lib/uap10.0.16299/Xamarin.Forms.Xaml.dll": {}
         },
         "build": {
-          "buildTransitive/Xamarin.Forms.props": {},
-          "buildTransitive/Xamarin.Forms.targets": {}
+          "build/Xamarin.Forms.props": {},
+          "build/Xamarin.Forms.targets": {}
         }
       },
       "EngineerCalculation/1.0.0": {
@@ -2003,7 +2003,7 @@
           "lib/uap10.0/Microsoft.UI.Xaml.winmd": {}
         },
         "build": {
-          "buildTransitive/Microsoft.UI.Xaml.props": {}
+          "build/Microsoft.UI.Xaml.props": {}
         }
       },
       "NETStandard.Library/2.0.3": {
@@ -2311,8 +2311,8 @@
           "lib/uap10.0.16299/Xamarin.Forms.Xaml.dll": {}
         },
         "build": {
-          "buildTransitive/Xamarin.Forms.props": {},
-          "buildTransitive/Xamarin.Forms.targets": {}
+          "build/Xamarin.Forms.props": {},
+          "build/Xamarin.Forms.targets": {}
         }
       },
       "EngineerCalculation/1.0.0": {
@@ -2537,7 +2537,7 @@
           "lib/uap10.0/Microsoft.UI.Xaml.winmd": {}
         },
         "build": {
-          "buildTransitive/Microsoft.UI.Xaml.props": {}
+          "build/Microsoft.UI.Xaml.props": {}
         }
       },
       "NETStandard.Library/2.0.3": {
@@ -2846,8 +2846,8 @@
           "lib/uap10.0.16299/Xamarin.Forms.Xaml.dll": {}
         },
         "build": {
-          "buildTransitive/Xamarin.Forms.props": {},
-          "buildTransitive/Xamarin.Forms.targets": {}
+          "build/Xamarin.Forms.props": {},
+          "build/Xamarin.Forms.targets": {}
         }
       },
       "EngineerCalculation/1.0.0": {
@@ -3072,7 +3072,7 @@
           "lib/uap10.0/Microsoft.UI.Xaml.winmd": {}
         },
         "build": {
-          "buildTransitive/Microsoft.UI.Xaml.props": {}
+          "build/Microsoft.UI.Xaml.props": {}
         }
       },
       "NETStandard.Library/2.0.3": {
@@ -3380,8 +3380,8 @@
           "lib/uap10.0.16299/Xamarin.Forms.Xaml.dll": {}
         },
         "build": {
-          "buildTransitive/Xamarin.Forms.props": {},
-          "buildTransitive/Xamarin.Forms.targets": {}
+          "build/Xamarin.Forms.props": {},
+          "build/Xamarin.Forms.targets": {}
         }
       },
       "EngineerCalculation/1.0.0": {
@@ -3606,7 +3606,7 @@
           "lib/uap10.0/Microsoft.UI.Xaml.winmd": {}
         },
         "build": {
-          "buildTransitive/Microsoft.UI.Xaml.props": {}
+          "build/Microsoft.UI.Xaml.props": {}
         }
       },
       "NETStandard.Library/2.0.3": {
@@ -3915,8 +3915,8 @@
           "lib/uap10.0.16299/Xamarin.Forms.Xaml.dll": {}
         },
         "build": {
-          "buildTransitive/Xamarin.Forms.props": {},
-          "buildTransitive/Xamarin.Forms.targets": {}
+          "build/Xamarin.Forms.props": {},
+          "build/Xamarin.Forms.targets": {}
         }
       },
       "EngineerCalculation/1.0.0": {
@@ -8075,11 +8075,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_git\\VS2019_Android\\EngineerCalculation\\EngineerCalculation\\EngineerCalculation.UWP\\EngineerCalculation.UWP.csproj",
+      "projectUniqueName": "D:\\_git\\VS2019_Android\\EngineerCalculation\\EngineerCalculation001\\EngineerCalculation.UWP\\EngineerCalculation.UWP.csproj",
       "projectName": "EngineerCalculation.UWP",
-      "projectPath": "D:\\_git\\VS2019_Android\\EngineerCalculation\\EngineerCalculation\\EngineerCalculation.UWP\\EngineerCalculation.UWP.csproj",
+      "projectPath": "D:\\_git\\VS2019_Android\\EngineerCalculation\\EngineerCalculation001\\EngineerCalculation.UWP\\EngineerCalculation.UWP.csproj",
       "packagesPath": "C:\\Users\\sny-acer\\.nuget\\packages\\",
-      "outputPath": "D:\\_git\\VS2019_Android\\EngineerCalculation\\EngineerCalculation\\EngineerCalculation.UWP\\obj\\",
+      "outputPath": "D:\\_git\\VS2019_Android\\EngineerCalculation\\EngineerCalculation001\\EngineerCalculation.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -8101,8 +8101,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "D:\\_git\\VS2019_Android\\EngineerCalculation\\EngineerCalculation\\EngineerCalculation\\EngineerCalculation.csproj": {
-              "projectPath": "D:\\_git\\VS2019_Android\\EngineerCalculation\\EngineerCalculation\\EngineerCalculation\\EngineerCalculation.csproj"
+            "D:\\_git\\VS2019_Android\\EngineerCalculation\\EngineerCalculation001\\EngineerCalculation\\EngineerCalculation.csproj": {
+              "projectPath": "D:\\_git\\VS2019_Android\\EngineerCalculation\\EngineerCalculation001\\EngineerCalculation\\EngineerCalculation.csproj"
             }
           }
         }

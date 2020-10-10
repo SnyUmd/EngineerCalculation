@@ -780,8 +780,8 @@
           "lib/MonoAndroid90/Xamarin.Forms.Xaml.dll": {}
         },
         "build": {
-          "buildTransitive/Xamarin.Forms.props": {},
-          "buildTransitive/Xamarin.Forms.targets": {}
+          "build/Xamarin.Forms.props": {},
+          "build/Xamarin.Forms.targets": {}
         }
       },
       "EngineerCalculation/1.0.0": {
@@ -1936,11 +1936,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_git\\VS2019_Android\\EngineerCalculation\\EngineerCalculation\\EngineerCalculation.Android\\EngineerCalculation.Android.csproj",
+      "projectUniqueName": "D:\\_git\\VS2019_Android\\EngineerCalculation\\EngineerCalculation001\\EngineerCalculation.Android\\EngineerCalculation.Android.csproj",
       "projectName": "EngineerCalculation.Android",
-      "projectPath": "D:\\_git\\VS2019_Android\\EngineerCalculation\\EngineerCalculation\\EngineerCalculation.Android\\EngineerCalculation.Android.csproj",
+      "projectPath": "D:\\_git\\VS2019_Android\\EngineerCalculation\\EngineerCalculation001\\EngineerCalculation.Android\\EngineerCalculation.Android.csproj",
       "packagesPath": "C:\\Users\\sny-acer\\.nuget\\packages\\",
-      "outputPath": "D:\\_git\\VS2019_Android\\EngineerCalculation\\EngineerCalculation\\EngineerCalculation.Android\\obj\\",
+      "outputPath": "D:\\_git\\VS2019_Android\\EngineerCalculation\\EngineerCalculation001\\EngineerCalculation.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1961,8 +1961,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "D:\\_git\\VS2019_Android\\EngineerCalculation\\EngineerCalculation\\EngineerCalculation\\EngineerCalculation.csproj": {
-              "projectPath": "D:\\_git\\VS2019_Android\\EngineerCalculation\\EngineerCalculation\\EngineerCalculation\\EngineerCalculation.csproj"
+            "D:\\_git\\VS2019_Android\\EngineerCalculation\\EngineerCalculation001\\EngineerCalculation\\EngineerCalculation.csproj": {
+              "projectPath": "D:\\_git\\VS2019_Android\\EngineerCalculation\\EngineerCalculation001\\EngineerCalculation\\EngineerCalculation.csproj"
             }
           }
         }

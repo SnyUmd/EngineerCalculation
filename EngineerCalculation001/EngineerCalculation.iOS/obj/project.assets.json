@@ -132,8 +132,8 @@
           }
         },
         "build": {
-          "buildTransitive/Xamarin.Forms.props": {},
-          "buildTransitive/Xamarin.Forms.targets": {}
+          "build/Xamarin.Forms.props": {},
+          "build/Xamarin.Forms.targets": {}
         }
       },
       "EngineerCalculation/1.0.0": {
@@ -282,8 +282,8 @@
           }
         },
         "build": {
-          "buildTransitive/Xamarin.Forms.props": {},
-          "buildTransitive/Xamarin.Forms.targets": {}
+          "build/Xamarin.Forms.props": {},
+          "build/Xamarin.Forms.targets": {}
         }
       },
       "EngineerCalculation/1.0.0": {
@@ -432,8 +432,8 @@
           }
         },
         "build": {
-          "buildTransitive/Xamarin.Forms.props": {},
-          "buildTransitive/Xamarin.Forms.targets": {}
+          "build/Xamarin.Forms.props": {},
+          "build/Xamarin.Forms.targets": {}
         }
       },
       "EngineerCalculation/1.0.0": {
@@ -582,8 +582,8 @@
           }
         },
         "build": {
-          "buildTransitive/Xamarin.Forms.props": {},
-          "buildTransitive/Xamarin.Forms.targets": {}
+          "build/Xamarin.Forms.props": {},
+          "build/Xamarin.Forms.targets": {}
         }
       },
       "EngineerCalculation/1.0.0": {
@@ -984,11 +984,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_git\\VS2019_Android\\EngineerCalculation\\EngineerCalculation\\EngineerCalculation.iOS\\EngineerCalculation.iOS.csproj",
+      "projectUniqueName": "D:\\_git\\VS2019_Android\\EngineerCalculation\\EngineerCalculation001\\EngineerCalculation.iOS\\EngineerCalculation.iOS.csproj",
       "projectName": "EngineerCalculation.iOS",
-      "projectPath": "D:\\_git\\VS2019_Android\\EngineerCalculation\\EngineerCalculation\\EngineerCalculation.iOS\\EngineerCalculation.iOS.csproj",
+      "projectPath": "D:\\_git\\VS2019_Android\\EngineerCalculation\\EngineerCalculation001\\EngineerCalculation.iOS\\EngineerCalculation.iOS.csproj",
       "packagesPath": "C:\\Users\\sny-acer\\.nuget\\packages\\",
-      "outputPath": "D:\\_git\\VS2019_Android\\EngineerCalculation\\EngineerCalculation\\EngineerCalculation.iOS\\obj\\",
+      "outputPath": "D:\\_git\\VS2019_Android\\EngineerCalculation\\EngineerCalculation001\\EngineerCalculation.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1009,8 +1009,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "D:\\_git\\VS2019_Android\\EngineerCalculation\\EngineerCalculation\\EngineerCalculation\\EngineerCalculation.csproj": {
-              "projectPath": "D:\\_git\\VS2019_Android\\EngineerCalculation\\EngineerCalculation\\EngineerCalculation\\EngineerCalculation.csproj"
+            "D:\\_git\\VS2019_Android\\EngineerCalculation\\EngineerCalculation001\\EngineerCalculation\\EngineerCalculation.csproj": {
+              "projectPath": "D:\\_git\\VS2019_Android\\EngineerCalculation\\EngineerCalculation001\\EngineerCalculation\\EngineerCalculation.csproj"
             }
           }
         }

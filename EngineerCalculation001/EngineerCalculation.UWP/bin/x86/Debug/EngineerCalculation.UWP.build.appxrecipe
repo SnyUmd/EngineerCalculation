@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>ec0cc741-fd3e-485c-81be-68815c480690</PackageIdentityName>
     <PackageIdentityPublisher>CN=322dffc7-884c-4b48-ae2a-429d28476f0f</PackageIdentityPublisher>
-    <IntermediateOutputPath>D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation\EngineerCalculation.UWP\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation001\EngineerCalculation.UWP\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation\EngineerCalculation.UWP\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation001\EngineerCalculation.UWP\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation\EngineerCalculation.UWP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation001\EngineerCalculation.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation\EngineerCalculation.UWP\bin\x86\Debug\EngineerCalculation.UWP.exe">
+    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation001\EngineerCalculation.UWP\bin\x86\Debug\EngineerCalculation.UWP.exe">
       <PackagePath>entrypoint\EngineerCalculation.UWP.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sny-acer\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.9\runtimes\win10-x86\nativeassets\uap10.0.15138\clrcompression.dll">
@@ -538,7 +538,7 @@
     <AppxPackagedFile Include="C:\Microsoft\Xamarin\NuGet\xamarin.forms\4.6.0.1141\lib\uap10.0.16299\Xamarin.Forms.Xaml.dll">
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation\EngineerCalculation\bin\Debug\netstandard2.0\EngineerCalculation.dll">
+    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation001\EngineerCalculation\bin\Debug\netstandard2.0\EngineerCalculation.dll">
       <PackagePath>EngineerCalculation.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sny-acer\.nuget\packages\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
@@ -547,127 +547,124 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.18362.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Microsoft\Xamarin\NuGet\xamarin.forms\4.6.0.1141\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml">
-      <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation\EngineerCalculation.UWP\Assets\LargeTile.scale-100.png">
+    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation001\EngineerCalculation.UWP\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation\EngineerCalculation.UWP\Assets\LargeTile.scale-200.png">
+    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation001\EngineerCalculation.UWP\Assets\LargeTile.scale-200.png">
       <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation\EngineerCalculation.UWP\Assets\LargeTile.scale-400.png">
+    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation001\EngineerCalculation.UWP\Assets\LargeTile.scale-400.png">
       <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation\EngineerCalculation.UWP\Assets\SmallTile.scale-100.png">
+    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation001\EngineerCalculation.UWP\Assets\SmallTile.scale-100.png">
       <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation\EngineerCalculation.UWP\Assets\SmallTile.scale-200.png">
+    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation001\EngineerCalculation.UWP\Assets\SmallTile.scale-200.png">
       <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation\EngineerCalculation.UWP\Assets\SmallTile.scale-400.png">
+    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation001\EngineerCalculation.UWP\Assets\SmallTile.scale-400.png">
       <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation\EngineerCalculation.UWP\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation001\EngineerCalculation.UWP\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation\EngineerCalculation.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation001\EngineerCalculation.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation\EngineerCalculation.UWP\Assets\SplashScreen.scale-400.png">
+    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation001\EngineerCalculation.UWP\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation\EngineerCalculation.UWP\Assets\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation001\EngineerCalculation.UWP\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation\EngineerCalculation.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation001\EngineerCalculation.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation\EngineerCalculation.UWP\Assets\Square150x150Logo.scale-400.png">
+    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation001\EngineerCalculation.UWP\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation\EngineerCalculation.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation001\EngineerCalculation.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation\EngineerCalculation.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation001\EngineerCalculation.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation\EngineerCalculation.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation001\EngineerCalculation.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation\EngineerCalculation.UWP\Assets\Square44x44Logo.scale-100.png">
+    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation001\EngineerCalculation.UWP\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation\EngineerCalculation.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation001\EngineerCalculation.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation\EngineerCalculation.UWP\Assets\Square44x44Logo.scale-400.png">
+    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation001\EngineerCalculation.UWP\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation\EngineerCalculation.UWP\Assets\Square44x44Logo.targetsize-16.png">
+    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation001\EngineerCalculation.UWP\Assets\Square44x44Logo.targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation\EngineerCalculation.UWP\Assets\Square44x44Logo.targetsize-256.png">
+    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation001\EngineerCalculation.UWP\Assets\Square44x44Logo.targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation\EngineerCalculation.UWP\Assets\Square44x44Logo.targetsize-48.png">
+    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation001\EngineerCalculation.UWP\Assets\Square44x44Logo.targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation\EngineerCalculation.UWP\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation001\EngineerCalculation.UWP\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation\EngineerCalculation.UWP\Assets\StoreLogo.scale-200.png">
+    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation001\EngineerCalculation.UWP\Assets\StoreLogo.scale-200.png">
       <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation\EngineerCalculation.UWP\Assets\StoreLogo.scale-400.png">
+    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation001\EngineerCalculation.UWP\Assets\StoreLogo.scale-400.png">
       <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation\EngineerCalculation.UWP\Assets\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation001\EngineerCalculation.UWP\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation\EngineerCalculation.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation001\EngineerCalculation.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation\EngineerCalculation.UWP\Assets\Wide310x150Logo.scale-400.png">
+    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation001\EngineerCalculation.UWP\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation\EngineerCalculation.UWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation001\EngineerCalculation.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation\EngineerCalculation.UWP\bin\x86\Debug\EngineerCalculation.UWP.xr.xml">
+    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation001\EngineerCalculation.UWP\bin\x86\Debug\EngineerCalculation.UWP.xr.xml">
       <PackagePath>EngineerCalculation.UWP.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation\EngineerCalculation.UWP\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation001\EngineerCalculation.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation\EngineerCalculation.UWP\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation001\EngineerCalculation.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.18362.0\\redist\Debug\x86\ucrtbased.dll">
@@ -676,55 +673,109 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sny-acer\.nuget\packages\microsoft.ui.xaml\2.3.191211002\buildTransitive\..\lib\uap10.0\Microsoft.UI.Xaml.winmd">
+    <AppxPackagedFile Include="C:\Users\sny-acer\.nuget\packages\microsoft.ui.xaml\2.3.191211002\build\..\lib\uap10.0\Microsoft.UI.Xaml.winmd">
       <PackagePath>WinMetadata\Microsoft.UI.Xaml.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation\EngineerCalculation.UWP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Microsoft\Xamarin\NuGet\xamarin.forms\4.6.0.1141\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP\FormsAutoSuggestBoxStyle.xaml">
+      <PackagePath>Xamarin.Forms.Platform.UAP\FormsAutoSuggestBoxStyle.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Microsoft\Xamarin\NuGet\xamarin.forms\4.6.0.1141\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP\FormsCheckBoxStyle.xaml">
+      <PackagePath>Xamarin.Forms.Platform.UAP\FormsCheckBoxStyle.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Microsoft\Xamarin\NuGet\xamarin.forms\4.6.0.1141\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP\FormsCommandBarStyle.xaml">
+      <PackagePath>Xamarin.Forms.Platform.UAP\FormsCommandBarStyle.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Microsoft\Xamarin\NuGet\xamarin.forms\4.6.0.1141\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP\FormsEmbeddedPageWrapper.xaml">
+      <PackagePath>Xamarin.Forms.Platform.UAP\FormsEmbeddedPageWrapper.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Microsoft\Xamarin\NuGet\xamarin.forms\4.6.0.1141\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP\FormsFlyout.xaml">
+      <PackagePath>Xamarin.Forms.Platform.UAP\FormsFlyout.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Microsoft\Xamarin\NuGet\xamarin.forms\4.6.0.1141\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP\FormsProgressBarStyle.xaml">
+      <PackagePath>Xamarin.Forms.Platform.UAP\FormsProgressBarStyle.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Microsoft\Xamarin\NuGet\xamarin.forms\4.6.0.1141\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP\FormsTextBoxStyle.xaml">
+      <PackagePath>Xamarin.Forms.Platform.UAP\FormsTextBoxStyle.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Microsoft\Xamarin\NuGet\xamarin.forms\4.6.0.1141\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP\MasterDetailControlStyle.xaml">
+      <PackagePath>Xamarin.Forms.Platform.UAP\MasterDetailControlStyle.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Microsoft\Xamarin\NuGet\xamarin.forms\4.6.0.1141\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP\PageControlStyle.xaml">
+      <PackagePath>Xamarin.Forms.Platform.UAP\PageControlStyle.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Microsoft\Xamarin\NuGet\xamarin.forms\4.6.0.1141\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP\PickerStyle.xaml">
+      <PackagePath>Xamarin.Forms.Platform.UAP\PickerStyle.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Microsoft\Xamarin\NuGet\xamarin.forms\4.6.0.1141\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP\PromptDialog.xaml">
+      <PackagePath>Xamarin.Forms.Platform.UAP\PromptDialog.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Microsoft\Xamarin\NuGet\xamarin.forms\4.6.0.1141\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP\Resources.xaml">
+      <PackagePath>Xamarin.Forms.Platform.UAP\Resources.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Microsoft\Xamarin\NuGet\xamarin.forms\4.6.0.1141\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP\SliderStyle.xaml">
+      <PackagePath>Xamarin.Forms.Platform.UAP\SliderStyle.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Microsoft\Xamarin\NuGet\xamarin.forms\4.6.0.1141\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP\StepperControl.xaml">
+      <PackagePath>Xamarin.Forms.Platform.UAP\StepperControl.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Microsoft\Xamarin\NuGet\xamarin.forms\4.6.0.1141\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP\TabbedPageStyle.xaml">
+      <PackagePath>Xamarin.Forms.Platform.UAP\TabbedPageStyle.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Microsoft\Xamarin\NuGet\xamarin.forms\4.6.0.1141\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Microsoft\Xamarin\NuGet\xamarin.forms\4.6.0.1141\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP\CollectionView\ItemsViewStyles.xaml">
+      <PackagePath>Xamarin.Forms.Platform.UAP\CollectionView\ItemsViewStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Microsoft\Xamarin\NuGet\xamarin.forms\4.6.0.1141\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP\Shell\ShellStyles.xaml">
+      <PackagePath>Xamarin.Forms.Platform.UAP\Shell\ShellStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation001\EngineerCalculation.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation\EngineerCalculation.UWP\bin\x86\Debug\Core\EngineerCalculation.UWP.exe">
+    <AppxPackagedFile Include="D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation001\EngineerCalculation.UWP\bin\x86\Debug\Core\EngineerCalculation.UWP.exe">
       <PackagePath>EngineerCalculation.UWP.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
-    <ResolvedSDKReference Include="C:\Users\sny-acer\.nuget\packages\microsoft.ui.xaml\2.3.191211002\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.3.appx">
+    <ResolvedSDKReference Include="C:\Users\sny-acer\.nuget\packages\microsoft.ui.xaml\2.3.191211002\build\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.3.appx">
       <Name>Microsoft.UI.Xaml.2.3</Name>
       <Version>2.31912.11002.0</Version>
       <Architecture>x86</Architecture>
       <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.3, MinVersion = 2.31912.11002.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\sny-acer\.nuget\packages\microsoft.ui.xaml\2.3.191211002\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.3.appx</AppxLocation>
+      <AppxLocation>C:\Users\sny-acer\.nuget\packages\microsoft.ui.xaml\2.3.191211002\build\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.3.appx</AppxLocation>
       <MoreInfo></MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\sny-acer\.nuget\packages\microsoft.ui.xaml\2.3.191211002\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.3.appx">
+    <ResolvedSDKReference Include="C:\Users\sny-acer\.nuget\packages\microsoft.ui.xaml\2.3.191211002\build\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.3.appx">
       <Name>Microsoft.UI.Xaml.2.3</Name>
       <Version>2.31912.11002.0</Version>
       <Architecture>Win32</Architecture>
       <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.3, MinVersion = 2.31912.11002.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\sny-acer\.nuget\packages\microsoft.ui.xaml\2.3.191211002\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.3.appx</AppxLocation>
+      <AppxLocation>C:\Users\sny-acer\.nuget\packages\microsoft.ui.xaml\2.3.191211002\build\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.3.appx</AppxLocation>
       <MoreInfo></MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\sny-acer\.nuget\packages\microsoft.ui.xaml\2.3.191211002\buildTransitive\..\tools\AppX\x64\Release\Microsoft.UI.Xaml.2.3.appx">
+    <ResolvedSDKReference Include="C:\Users\sny-acer\.nuget\packages\microsoft.ui.xaml\2.3.191211002\build\..\tools\AppX\x64\Release\Microsoft.UI.Xaml.2.3.appx">
       <Name>Microsoft.UI.Xaml.2.3</Name>
       <Version>2.31912.11002.0</Version>
       <Architecture>x64</Architecture>
       <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.3, MinVersion = 2.31912.11002.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\sny-acer\.nuget\packages\microsoft.ui.xaml\2.3.191211002\buildTransitive\..\tools\AppX\x64\Release\Microsoft.UI.Xaml.2.3.appx</AppxLocation>
+      <AppxLocation>C:\Users\sny-acer\.nuget\packages\microsoft.ui.xaml\2.3.191211002\build\..\tools\AppX\x64\Release\Microsoft.UI.Xaml.2.3.appx</AppxLocation>
       <MoreInfo></MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\sny-acer\.nuget\packages\microsoft.ui.xaml\2.3.191211002\buildTransitive\..\tools\AppX\arm\Release\Microsoft.UI.Xaml.2.3.appx">
+    <ResolvedSDKReference Include="C:\Users\sny-acer\.nuget\packages\microsoft.ui.xaml\2.3.191211002\build\..\tools\AppX\arm\Release\Microsoft.UI.Xaml.2.3.appx">
       <Name>Microsoft.UI.Xaml.2.3</Name>
       <Version>2.31912.11002.0</Version>
       <Architecture>arm</Architecture>
       <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.3, MinVersion = 2.31912.11002.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\sny-acer\.nuget\packages\microsoft.ui.xaml\2.3.191211002\buildTransitive\..\tools\AppX\arm\Release\Microsoft.UI.Xaml.2.3.appx</AppxLocation>
+      <AppxLocation>C:\Users\sny-acer\.nuget\packages\microsoft.ui.xaml\2.3.191211002\build\..\tools\AppX\arm\Release\Microsoft.UI.Xaml.2.3.appx</AppxLocation>
       <MoreInfo></MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\sny-acer\.nuget\packages\microsoft.ui.xaml\2.3.191211002\buildTransitive\..\tools\AppX\arm64\Release\Microsoft.UI.Xaml.2.3.appx">
+    <ResolvedSDKReference Include="C:\Users\sny-acer\.nuget\packages\microsoft.ui.xaml\2.3.191211002\build\..\tools\AppX\arm64\Release\Microsoft.UI.Xaml.2.3.appx">
       <Name>Microsoft.UI.Xaml.2.3</Name>
       <Version>2.31912.11002.0</Version>
       <Architecture>arm64</Architecture>
       <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.3, MinVersion = 2.31912.11002.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\sny-acer\.nuget\packages\microsoft.ui.xaml\2.3.191211002\buildTransitive\..\tools\AppX\arm64\Release\Microsoft.UI.Xaml.2.3.appx</AppxLocation>
+      <AppxLocation>C:\Users\sny-acer\.nuget\packages\microsoft.ui.xaml\2.3.191211002\build\..\tools\AppX\arm64\Release\Microsoft.UI.Xaml.2.3.appx</AppxLocation>
       <MoreInfo></MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Users\sny-acer\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.1.2\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.1.appx">

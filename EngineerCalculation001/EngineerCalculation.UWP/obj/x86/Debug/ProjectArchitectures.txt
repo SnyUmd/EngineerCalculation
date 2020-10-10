@@ -1,1 +1,1 @@
-D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation\EngineerCalculation.UWP\EngineerCalculation.UWP.csproj;x86
+D:\_git\VS2019_Android\EngineerCalculation\EngineerCalculation001\EngineerCalculation.UWP\EngineerCalculation.UWP.csproj;x86
